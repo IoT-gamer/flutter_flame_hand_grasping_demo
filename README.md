@@ -4,6 +4,8 @@
 
 <img src="docs/assets/demo.jpg" alt="drawing" height="200"/> <img src="docs/assets/demo2.gif" alt="drawing" height="300"/>
 
+This repository contains a Flutter Flame game demo that showcases real-time hand tracking capabilities to interact with in-game objects. Specifically, it demonstrates how to "grasp" and "crush" a water bottle by detecting the proximity and collision of the user's thumb and index finger tips.
+
 ## 🚀 Features
 
 * **Real-time Hand Tracking:** Utilizes the hand_landmarker plugin to detect and visualize hand landmarks from the device's camera feed.
